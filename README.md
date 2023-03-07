@@ -1,2 +1,2 @@
 # planet the Planets
-My log for 
+My log for exploring the solar system
